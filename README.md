@@ -6,9 +6,9 @@
   </a>
 </p>
 
-> Real-time BTCKES price API endpoint
+> Real-time BTCKES price API
 
-### ✨ [Demo](satcollector.com)
+### ✨ [Demo](https://satcollector.com)
 
 ## Install
 
