@@ -1,0 +1,19 @@
+{
+    "name": "@kimothokamau/btckes",
+    "version": "2.0.0",
+    "description": "A realtime BTCKES price API",
+    "license": "MIT",
+    "repository": "kimothokamau/btckes",
+    "main": "index.js",
+    "keywords": [
+        "bitcoin",
+        "cryptocurrency",
+        "btc",
+        "kes",
+        "ksh"
+    ],
+    "dependencies": {
+        "axios": "^0.19.2",
+        "express": "^4.17.1"
+    }
+}
