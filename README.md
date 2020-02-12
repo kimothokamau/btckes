@@ -12,7 +12,16 @@
 
 ## Install
 
-Ensure you have node and npm already installed. 
+Ensure you have node and npm already installed. Confirm by running:
+```sh
+node -v
+```
+and
+
+```sh
+npm -v
+```
+
 
 
 ```sh
