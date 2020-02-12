@@ -12,6 +12,9 @@
 
 ## Install
 
+Ensure you have node and npm already installed. 
+
+
 ```sh
 npm install
 ```
