@@ -8,11 +8,11 @@
 
 > Real-time BTCKES price API
 
-### ✨ [Demo](https://satcollector.com)
+
 
 ## Install
 
-Ensure you have node and npm already installed. Confirm by running:
+First ensure you have node and npm already installed. Confirm by running:
 ```sh
 node -v
 ```
@@ -22,21 +22,14 @@ and
 npm -v
 ```
 
-
+Navigate to your project directory; where there is package.json
 
 ```sh
-npm install
+npm install btckes --save
 ```
 
-## Author
 
-👤 **kimotho kamau**
 
-* Github: [@kimothokamau](https://github.com/kimothokamau)
 
-## Show your support
 
-Give a ⭐️ if this project helped you!
 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
